@@ -29,6 +29,7 @@
 		"snyk": "^1.69.7"
 	},
 	"dependencies": {
+		"jsonwebtoken": "^8.1.1",
 		"restify": "^6.3.4"
 	}
 }
